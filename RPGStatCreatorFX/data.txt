@@ -1,0 +1,7 @@
+Name:  Bulltex
+Strength (Str):  18
+Dexterity (Dex):  16
+Constitution (Con):  18
+Intelligence (Int):  18
+Wisdom (Wis):  16
+Charisma (Cha):  16
